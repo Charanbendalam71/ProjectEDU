@@ -16,7 +16,7 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   // Set up axios defaults - using relative paths for proxy
-  axios.defaults.baseURL = 'http://localhost:5000';
+  axios.defaults.baseURL = 'https://projectedu-h0nx.onrender.com';
 
   useEffect(() => {
     const token = localStorage.getItem('token');
