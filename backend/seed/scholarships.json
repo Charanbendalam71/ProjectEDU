@@ -1,0 +1,353 @@
+[
+  {
+    "id": "sch001",
+    "title": "Merit Scholarship Program",
+    "organization": "National Education Foundation",
+    "amount": 5000,
+    "currency": "USD",
+    "deadline": "2024-12-15",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Freshman", "Sophomore", "Junior", "Senior"]
+    },
+    "description": "Awarded to outstanding students demonstrating academic excellence and leadership potential. Open to all fields of study.",
+    "requirements": [
+      "Minimum 3.5 GPA",
+      "US Citizen or Permanent Resident",
+      "Full-time enrollment",
+      "Leadership experience",
+      "Essay submission"
+    ],
+    "tags": ["merit", "leadership", "academic excellence"],
+    "applicationUrl": "https://example.com/merit-scholarship",
+    "contactEmail": "scholarships@nef.org",
+    "isActive": true
+  },
+  {
+    "id": "sch002",
+    "title": "STEM Excellence Award",
+    "organization": "Science and Technology Institute",
+    "amount": 10000,
+    "currency": "USD",
+    "deadline": "2024-11-30",
+    "field": "STEM",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": ["US Citizen", "International"],
+      "enrollment": "Full-time",
+      "year": ["Masters", "PhD"]
+    },
+    "description": "Supporting graduate students pursuing degrees in Science, Technology, Engineering, and Mathematics fields.",
+    "requirements": [
+      "Minimum 3.7 GPA",
+      "STEM field of study",
+      "Research proposal",
+      "Letters of recommendation",
+      "GRE scores"
+    ],
+    "tags": ["STEM", "graduate", "research"],
+    "applicationUrl": "https://example.com/stem-award",
+    "contactEmail": "awards@sti.org",
+    "isActive": true
+  },
+  {
+    "id": "sch003",
+    "title": "Community Service Grant",
+    "organization": "Civic Engagement Foundation",
+    "amount": 3000,
+    "currency": "USD",
+    "deadline": "2024-10-20",
+    "field": "Social Sciences",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.0,
+      "citizenship": ["US Citizen"],
+      "enrollment": "Full-time",
+      "year": ["Sophomore", "Junior", "Senior"]
+    },
+    "description": "Recognizing students who have made significant contributions to their communities through volunteer work and service projects.",
+    "requirements": [
+      "Minimum 3.0 GPA",
+      "100+ hours of community service",
+      "Service project proposal",
+      "Letters of recommendation",
+      "Personal statement"
+    ],
+    "tags": ["community service", "volunteer", "social impact"],
+    "applicationUrl": "https://example.com/community-grant",
+    "contactEmail": "grants@cef.org",
+    "isActive": true
+  },
+  {
+    "id": "sch004",
+    "title": "International Student Fund",
+    "organization": "Global Education Alliance",
+    "amount": 7500,
+    "currency": "USD",
+    "deadline": "2024-12-01",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.3,
+      "citizenship": ["International"],
+      "enrollment": "Full-time",
+      "year": ["Freshman", "Sophomore", "Junior", "Senior"]
+    },
+    "description": "Supporting international students pursuing higher education in the United States.",
+    "requirements": [
+      "International student status",
+      "Minimum 3.3 GPA",
+      "Financial need",
+      "Essay on cultural exchange",
+      "Academic transcripts"
+    ],
+    "tags": ["international", "cultural exchange", "financial need"],
+    "applicationUrl": "https://example.com/international-fund",
+    "contactEmail": "international@gea.org",
+    "isActive": true
+  },
+  {
+    "id": "sch005",
+    "title": "Women in Engineering Scholarship",
+    "organization": "Society of Women Engineers",
+    "amount": 8000,
+    "currency": "USD",
+    "deadline": "2024-11-15",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Sophomore", "Junior", "Senior"],
+      "gender": "Female"
+    },
+    "description": "Encouraging women to pursue careers in engineering through financial support and mentorship opportunities.",
+    "requirements": [
+      "Female student",
+      "Engineering major",
+      "Minimum 3.5 GPA",
+      "Leadership experience",
+      "SWE membership"
+    ],
+    "tags": ["women", "engineering", "leadership"],
+    "applicationUrl": "https://example.com/women-engineering",
+    "contactEmail": "scholarships@swe.org",
+    "isActive": true
+  },
+  {
+    "id": "sch006",
+    "title": "First-Generation College Student Grant",
+    "organization": "Higher Education Access Program",
+    "amount": 4000,
+    "currency": "USD",
+    "deadline": "2024-12-10",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.0,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Freshman", "Sophomore"],
+      "firstGeneration": true
+    },
+    "description": "Supporting first-generation college students in their pursuit of higher education.",
+    "requirements": [
+      "First-generation college student",
+      "Minimum 3.0 GPA",
+      "Financial need",
+      "Personal statement",
+      "Letters of recommendation"
+    ],
+    "tags": ["first-generation", "access", "financial need"],
+    "applicationUrl": "https://example.com/first-gen-grant",
+    "contactEmail": "grants@heap.org",
+    "isActive": true
+  },
+  {
+    "id": "sch007",
+    "title": "Arts and Humanities Fellowship",
+    "organization": "Creative Arts Foundation",
+    "amount": 6000,
+    "currency": "USD",
+    "deadline": "2024-10-31",
+    "field": "Arts and Humanities",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.6,
+      "citizenship": ["US Citizen", "International"],
+      "enrollment": "Full-time",
+      "year": ["Masters", "PhD"]
+    },
+    "description": "Supporting graduate students in the arts and humanities with funding for research and creative projects.",
+    "requirements": [
+      "Arts or Humanities field",
+      "Minimum 3.6 GPA",
+      "Portfolio or writing sample",
+      "Research proposal",
+      "Letters of recommendation"
+    ],
+    "tags": ["arts", "humanities", "creative", "research"],
+    "applicationUrl": "https://example.com/arts-fellowship",
+    "contactEmail": "fellowships@caf.org",
+    "isActive": true
+  },
+  {
+    "id": "sch008",
+    "title": "Minority Student Achievement Award",
+    "organization": "Diversity in Education Initiative",
+    "amount": 5000,
+    "currency": "USD",
+    "deadline": "2024-11-20",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.4,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Sophomore", "Junior", "Senior"],
+      "underrepresented": true
+    },
+    "description": "Recognizing academic achievement and leadership among underrepresented minority students.",
+    "requirements": [
+      "Underrepresented minority",
+      "Minimum 3.4 GPA",
+      "Leadership experience",
+      "Community involvement",
+      "Personal statement"
+    ],
+    "tags": ["diversity", "minority", "achievement", "leadership"],
+    "applicationUrl": "https://example.com/minority-award",
+    "contactEmail": "awards@dei.org",
+    "isActive": true
+  },
+  {
+    "id": "sch009",
+    "title": "Business Innovation Scholarship",
+    "organization": "Entrepreneurship Development Fund",
+    "amount": 12000,
+    "currency": "USD",
+    "deadline": "2024-12-05",
+    "field": "Business",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": ["US Citizen", "International"],
+      "enrollment": "Full-time",
+      "year": ["Masters", "MBA"]
+    },
+    "description": "Supporting innovative business ideas and entrepreneurial ventures among graduate business students.",
+    "requirements": [
+      "Business or MBA program",
+      "Minimum 3.5 GPA",
+      "Business plan submission",
+      "Innovation proposal",
+      "Letters of recommendation"
+    ],
+    "tags": ["business", "entrepreneurship", "innovation"],
+    "applicationUrl": "https://example.com/business-innovation",
+    "contactEmail": "innovation@edf.org",
+    "isActive": true
+  },
+  {
+    "id": "sch010",
+    "title": "Environmental Science Research Grant",
+    "organization": "Environmental Protection Agency",
+    "amount": 15000,
+    "currency": "USD",
+    "deadline": "2024-11-25",
+    "field": "Environmental Science",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Masters", "PhD"]
+    },
+    "description": "Funding research projects focused on environmental protection, sustainability, and climate change.",
+    "requirements": [
+      "Environmental Science field",
+      "Minimum 3.7 GPA",
+      "Research proposal",
+      "Faculty advisor approval",
+      "Previous research experience"
+    ],
+    "tags": ["environmental", "research", "sustainability", "climate"],
+    "applicationUrl": "https://example.com/environmental-grant",
+    "contactEmail": "research@epa.gov",
+    "isActive": true
+  },
+  {
+    "id": "sch011",
+    "title": "Computer Science Excellence Award",
+    "organization": "Tech Innovation Foundation",
+    "amount": 9000,
+    "currency": "USD",
+    "deadline": "2024-12-20",
+    "field": "Computer Science",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.6,
+      "citizenship": ["US Citizen", "International"],
+      "enrollment": "Full-time",
+      "year": ["Junior", "Senior"]
+    },
+    "description": "Recognizing outstanding achievement in computer science and software development.",
+    "requirements": [
+      "Computer Science major",
+      "Minimum 3.6 GPA",
+      "Programming portfolio",
+      "Technical project",
+      "Letters of recommendation"
+    ],
+    "tags": ["computer science", "programming", "technology"],
+    "applicationUrl": "https://example.com/cs-excellence",
+    "contactEmail": "awards@tif.org",
+    "isActive": true
+  },
+  {
+    "id": "sch012",
+    "title": "Healthcare Leadership Scholarship",
+    "organization": "American Medical Association",
+    "amount": 7000,
+    "currency": "USD",
+    "deadline": "2024-11-10",
+    "field": "Healthcare",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": ["US Citizen", "Permanent Resident"],
+      "enrollment": "Full-time",
+      "year": ["Masters", "PhD", "MD"]
+    },
+    "description": "Supporting future healthcare leaders in medicine, nursing, and public health.",
+    "requirements": [
+      "Healthcare field",
+      "Minimum 3.5 GPA",
+      "Leadership experience",
+      "Healthcare project proposal",
+      "Letters of recommendation"
+    ],
+    "tags": ["healthcare", "leadership", "medicine", "public health"],
+    "applicationUrl": "https://example.com/healthcare-leadership",
+    "contactEmail": "scholarships@ama.org",
+    "isActive": true
+  }
+] 

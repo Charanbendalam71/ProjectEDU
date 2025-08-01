@@ -1,0 +1,825 @@
+[
+  {
+    "id": "rhodes001",
+    "title": "Rhodes Scholarship",
+    "organization": "Rhodes Trust",
+    "amount": 70000,
+    "currency": "USD",
+    "deadline": "2024-10-15",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "United Kingdom",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": [
+        "US Citizen",
+        "Canadian Citizen",
+        "Australian Citizen",
+        "New Zealand Citizen",
+        "South African Citizen",
+        "Zimbabwean Citizen",
+        "German Citizen",
+        "Hong Kong Citizen",
+        "Indian Citizen",
+        "Pakistani Citizen",
+        "Jamaican Citizen",
+        "Bermudian Citizen",
+        "Kenyan Citizen",
+        "Malaysian Citizen",
+        "Singaporean Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Senior",
+        "Graduate"
+      ],
+      "age": 24
+    },
+    "description": "The Rhodes Scholarship is the oldest and most prestigious international scholarship program, enabling outstanding young people from around the world to study at the University of Oxford.",
+    "requirements": [
+      "Exceptional academic achievement",
+      "Leadership potential",
+      "Service to others",
+      "Physical vigor",
+      "Age 18-24",
+      "Bachelor's degree or equivalent"
+    ],
+    "tags": [
+      "prestigious",
+      "international",
+      "leadership",
+      "oxford"
+    ],
+    "applicationUrl": "https://www.rhodeshouse.ox.ac.uk/scholarships/",
+    "contactEmail": "rhodes.scholarship@rhodeshouse.ox.ac.uk",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "fulbright002",
+    "title": "Fulbright U.S. Student Program",
+    "organization": "U.S. Department of State",
+    "amount": 25000,
+    "currency": "USD",
+    "deadline": "2024-10-10",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Senior",
+        "Graduate",
+        "Recent Graduate"
+      ]
+    },
+    "description": "The Fulbright Program provides grants for individually designed study/research projects or for English Teaching Assistant Programs.",
+    "requirements": [
+      "U.S. citizenship",
+      "Bachelor's degree or equivalent",
+      "Project proposal",
+      "Language proficiency",
+      "Letters of recommendation"
+    ],
+    "tags": [
+      "international",
+      "research",
+      "teaching",
+      "cultural exchange"
+    ],
+    "applicationUrl": "https://us.fulbrightonline.org/",
+    "contactEmail": "fulbright@state.gov",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "gates003",
+    "title": "Gates Cambridge Scholarship",
+    "organization": "Bill & Melinda Gates Foundation",
+    "amount": 60000,
+    "currency": "USD",
+    "deadline": "2024-12-05",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "United Kingdom",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": [
+        "International Students"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Graduate"
+      ]
+    },
+    "description": "Gates Cambridge Scholarships are awarded to outstanding applicants from countries outside the UK to pursue a full-time postgraduate degree in any subject available at the University of Cambridge.",
+    "requirements": [
+      "Outstanding academic achievement",
+      "Leadership potential",
+      "Commitment to improving lives",
+      "Strong intellectual ability",
+      "Reasons for choice of course"
+    ],
+    "tags": [
+      "cambridge",
+      "international",
+      "leadership",
+      "research"
+    ],
+    "applicationUrl": "https://www.gatescambridge.org/",
+    "contactEmail": "info@gatescambridge.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "chevening004",
+    "title": "Chevening Scholarship",
+    "organization": "UK Foreign, Commonwealth & Development Office",
+    "amount": 50000,
+    "currency": "USD",
+    "deadline": "2024-11-02",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "United Kingdom",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "International Students"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Graduate"
+      ],
+      "workExperience": 2
+    },
+    "description": "Chevening Scholarships are awarded to outstanding emerging leaders from all over the world to pursue a one-year master's degree in any subject at any UK university.",
+    "requirements": [
+      "Leadership potential",
+      "Strong academic background",
+      "Work experience",
+      "English language proficiency",
+      "Return to home country for 2 years"
+    ],
+    "tags": [
+      "uk",
+      "leadership",
+      "international",
+      "masters"
+    ],
+    "applicationUrl": "https://www.chevening.org/",
+    "contactEmail": "info@chevening.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "marshall005",
+    "title": "Marshall Scholarship",
+    "organization": "Marshall Aid Commemoration Commission",
+    "amount": 45000,
+    "currency": "USD",
+    "deadline": "2024-10-01",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "United Kingdom",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Senior",
+        "Graduate"
+      ]
+    },
+    "description": "Marshall Scholarships finance young Americans of high ability to study for a graduate degree in the United Kingdom.",
+    "requirements": [
+      "U.S. citizenship",
+      "First degree from accredited U.S. college",
+      "GPA of 3.7 or higher",
+      "Leadership potential",
+      "Ambassadorial potential"
+    ],
+    "tags": [
+      "uk",
+      "prestigious",
+      "leadership",
+      "graduate"
+    ],
+    "applicationUrl": "https://www.marshallscholarship.org/",
+    "contactEmail": "info@marshallscholarship.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "mitchell006",
+    "title": "George J. Mitchell Scholarship",
+    "organization": "US-Ireland Alliance",
+    "amount": 12000,
+    "currency": "USD",
+    "deadline": "2024-09-30",
+    "field": "All Fields",
+    "level": "Graduate",
+    "country": "Ireland",
+    "eligibility": {
+      "gpa": 3.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Senior",
+        "Graduate"
+      ]
+    },
+    "description": "The Mitchell Scholarship Program, named to honor former U.S. Senator George Mitchell's pivotal contribution to the Northern Ireland peace process, is designed to introduce and connect generations of future American leaders to the island of Ireland.",
+    "requirements": [
+      "U.S. citizenship",
+      "Age 18-30",
+      "Bachelor's degree",
+      "Leadership and service",
+      "Academic excellence"
+    ],
+    "tags": [
+      "ireland",
+      "leadership",
+      "peace",
+      "graduate"
+    ],
+    "applicationUrl": "https://www.us-irelandalliance.org/mitchellscholarship",
+    "contactEmail": "info@us-irelandalliance.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "truman007",
+    "title": "Harry S. Truman Scholarship",
+    "organization": "Harry S. Truman Scholarship Foundation",
+    "amount": 30000,
+    "currency": "USD",
+    "deadline": "2024-02-01",
+    "field": "Public Service",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Junior"
+      ]
+    },
+    "description": "The Truman Scholarship is a highly competitive, merit-based award offered to U.S. college students who demonstrate outstanding leadership potential and a commitment to public service.",
+    "requirements": [
+      "U.S. citizenship",
+      "College junior status",
+      "Commitment to public service",
+      "Leadership potential",
+      "Academic excellence"
+    ],
+    "tags": [
+      "public service",
+      "leadership",
+      "government",
+      "undergraduate"
+    ],
+    "applicationUrl": "https://www.truman.gov/",
+    "contactEmail": "info@truman.gov",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "goldwater008",
+    "title": "Barry Goldwater Scholarship",
+    "organization": "Barry Goldwater Scholarship and Excellence in Education Foundation",
+    "amount": 7500,
+    "currency": "USD",
+    "deadline": "2024-01-26",
+    "field": "STEM",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen",
+        "Permanent Resident"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Sophomore",
+        "Junior"
+      ]
+    },
+    "description": "The Goldwater Scholarship is the most prestigious undergraduate scholarship of its type in the natural sciences, engineering, and mathematics in the United States.",
+    "requirements": [
+      "U.S. citizenship or permanent residency",
+      "Sophomore or junior standing",
+      "STEM major",
+      "Research experience",
+      "Commitment to research career"
+    ],
+    "tags": [
+      "STEM",
+      "research",
+      "undergraduate",
+      "science"
+    ],
+    "applicationUrl": "https://goldwater.scholarsapply.org/",
+    "contactEmail": "goldwater@act.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "coca_cola009",
+    "title": "Coca-Cola Scholars Program",
+    "organization": "Coca-Cola Scholars Foundation",
+    "amount": 20000,
+    "currency": "USD",
+    "deadline": "2024-10-31",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "Senior"
+      ]
+    },
+    "description": "The Coca-Cola Scholars Program is an achievement-based scholarship awarded to graduating high school seniors who demonstrate leadership, service, and academics.",
+    "requirements": [
+      "U.S. citizenship",
+      "High school senior",
+      "Leadership and service",
+      "Academic excellence",
+      "Community involvement"
+    ],
+    "tags": [
+      "leadership",
+      "community service",
+      "undergraduate",
+      "achievement"
+    ],
+    "applicationUrl": "https://www.coca-colascholarsfoundation.org/",
+    "contactEmail": "info@coca-colascholars.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "davidson010",
+    "title": "Davidson Fellows Scholarship",
+    "organization": "Davidson Institute for Talent Development",
+    "amount": 50000,
+    "currency": "USD",
+    "deadline": "2024-02-14",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior",
+        "Undergraduate"
+      ]
+    },
+    "description": "The Davidson Fellows Scholarship awards $50,000, $25,000 and $10,000 scholarships to extraordinary young people, 18 and under, who have completed a significant piece of work.",
+    "requirements": [
+      "U.S. citizenship",
+      "Age 18 or younger",
+      "Significant piece of work",
+      "Exceptional achievement",
+      "Innovation and creativity"
+    ],
+    "tags": [
+      "gifted",
+      "innovation",
+      "youth",
+      "achievement"
+    ],
+    "applicationUrl": "https://www.davidsongifted.org/fellows-scholarship/",
+    "contactEmail": "fellows@davidsongifted.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "jack_kent011",
+    "title": "Jack Kent Cooke Foundation Scholarship",
+    "organization": "Jack Kent Cooke Foundation",
+    "amount": 55000,
+    "currency": "USD",
+    "deadline": "2024-11-20",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ]
+    },
+    "description": "The Jack Kent Cooke Foundation's Undergraduate Transfer Scholarship makes it possible for the nation's top community college students to complete their bachelor's degrees by transferring to a selective four-year college or university.",
+    "requirements": [
+      "U.S. citizenship",
+      "Community college student",
+      "High academic achievement",
+      "Financial need",
+      "Transfer to 4-year institution"
+    ],
+    "tags": [
+      "transfer",
+      "community college",
+      "financial need",
+      "undergraduate"
+    ],
+    "applicationUrl": "https://www.jkcf.org/",
+    "contactEmail": "info@jkcf.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "ronald_mcdonald012",
+    "title": "Ronald McDonald House Charities Scholarship",
+    "organization": "Ronald McDonald House Charities",
+    "amount": 100000,
+    "currency": "USD",
+    "deadline": "2024-01-17",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 2.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ]
+    },
+    "description": "RMHC scholarships help students fulfill their educational dreams by giving them the resources they need to reach their full potential.",
+    "requirements": [
+      "U.S. citizenship",
+      "High school senior",
+      "Financial need",
+      "Academic achievement",
+      "Community involvement"
+    ],
+    "tags": [
+      "financial need",
+      "community service",
+      "undergraduate",
+      "diversity"
+    ],
+    "applicationUrl": "https://www.rmhc.org/scholarships",
+    "contactEmail": "scholarships@rmhc.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "buick_achievers013",
+    "title": "Buick Achievers Scholarship Program",
+    "organization": "General Motors Foundation",
+    "amount": 25000,
+    "currency": "USD",
+    "deadline": "2024-02-28",
+    "field": "STEM",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior",
+        "Undergraduate"
+      ]
+    },
+    "description": "The Buick Achievers Scholarship Program rewards students who have succeeded both inside and outside of the classroom while demonstrating financial need.",
+    "requirements": [
+      "U.S. citizenship",
+      "STEM major",
+      "Financial need",
+      "Leadership and community service",
+      "Academic achievement"
+    ],
+    "tags": [
+      "STEM",
+      "automotive",
+      "leadership",
+      "financial need"
+    ],
+    "applicationUrl": "https://www.buickachievers.com/",
+    "contactEmail": "buickachievers@scholarshipamerica.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "dell014",
+    "title": "Dell Scholars Program",
+    "organization": "Michael & Susan Dell Foundation",
+    "amount": 20000,
+    "currency": "USD",
+    "deadline": "2024-12-01",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 2.4,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ]
+    },
+    "description": "The Dell Scholars Program recognizes students who demonstrate their drive to succeed despite personal obstacles and gives them the resources to overcome barriers and follow their dreams.",
+    "requirements": [
+      "U.S. citizenship",
+      "High school senior",
+      "Financial need",
+      "Personal challenges overcome",
+      "Commitment to education"
+    ],
+    "tags": [
+      "financial need",
+      "resilience",
+      "undergraduate",
+      "support"
+    ],
+    "applicationUrl": "https://www.dellscholars.org/",
+    "contactEmail": "info@dellscholars.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "gates_millennium015",
+    "title": "Gates Millennium Scholars Program",
+    "organization": "Bill & Melinda Gates Foundation",
+    "amount": 50000,
+    "currency": "USD",
+    "deadline": "2024-01-15",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.3,
+      "citizenship": [
+        "US Citizen",
+        "Permanent Resident"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ],
+      "ethnicity": [
+        "African American",
+        "American Indian/Alaska Native",
+        "Asian Pacific Islander American",
+        "Hispanic American"
+      ]
+    },
+    "description": "The Gates Millennium Scholars Program provides outstanding low income African American, American Indian/Alaska Native, Asian Pacific Islander American and Hispanic American students with an opportunity to complete an undergraduate college education.",
+    "requirements": [
+      "U.S. citizenship or permanent residency",
+      "Ethnic minority background",
+      "Financial need",
+      "Academic excellence",
+      "Leadership potential"
+    ],
+    "tags": [
+      "diversity",
+      "financial need",
+      "minority",
+      "undergraduate"
+    ],
+    "applicationUrl": "https://www.gmsp.org/",
+    "contactEmail": "info@gmsp.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "posse016",
+    "title": "Posse Foundation Scholarship",
+    "organization": "Posse Foundation",
+    "amount": 200000,
+    "currency": "USD",
+    "deadline": "2024-10-15",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ]
+    },
+    "description": "The Posse Foundation identifies public high school students with extraordinary academic and leadership potential who may be overlooked by traditional college selection processes.",
+    "requirements": [
+      "U.S. citizenship",
+      "High school senior",
+      "Leadership potential",
+      "Academic achievement",
+      "Diversity and inclusion commitment"
+    ],
+    "tags": [
+      "leadership",
+      "diversity",
+      "undergraduate",
+      "inclusion"
+    ],
+    "applicationUrl": "https://www.possefoundation.org/",
+    "contactEmail": "info@possefoundation.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "questbridge017",
+    "title": "QuestBridge National College Match",
+    "organization": "QuestBridge",
+    "amount": 200000,
+    "currency": "USD",
+    "deadline": "2024-09-26",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 3.5,
+      "citizenship": [
+        "US Citizen",
+        "Permanent Resident"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ]
+    },
+    "description": "QuestBridge connects the nation's most exceptional, low-income youth with leading colleges and opportunities.",
+    "requirements": [
+      "U.S. citizenship or permanent residency",
+      "High school senior",
+      "Financial need",
+      "Academic excellence",
+      "Leadership and community service"
+    ],
+    "tags": [
+      "financial need",
+      "prestigious colleges",
+      "undergraduate",
+      "low-income"
+    ],
+    "applicationUrl": "https://www.questbridge.org/",
+    "contactEmail": "questions@questbridge.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "ronald_mcdonald018",
+    "title": "RMHC/HACER National Scholarship",
+    "organization": "Ronald McDonald House Charities",
+    "amount": 100000,
+    "currency": "USD",
+    "deadline": "2024-01-17",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 2.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ],
+      "ethnicity": [
+        "Hispanic"
+      ]
+    },
+    "description": "The RMHC/HACER National Scholarship is one of the largest scholarship programs in the country, providing more than $30 million in scholarships to Hispanic students.",
+    "requirements": [
+      "U.S. citizenship",
+      "Hispanic heritage",
+      "High school senior",
+      "Financial need",
+      "Academic achievement"
+    ],
+    "tags": [
+      "hispanic",
+      "financial need",
+      "undergraduate",
+      "diversity"
+    ],
+    "applicationUrl": "https://www.rmhc.org/hacer",
+    "contactEmail": "hacer@rmhc.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "ronald_mcdonald019",
+    "title": "RMHC/ASIA National Scholarship",
+    "organization": "Ronald McDonald House Charities",
+    "amount": 100000,
+    "currency": "USD",
+    "deadline": "2024-01-17",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 2.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ],
+      "ethnicity": [
+        "Asian"
+      ]
+    },
+    "description": "The RMHC/ASIA National Scholarship provides scholarships to Asian students who demonstrate academic achievement, financial need and community involvement.",
+    "requirements": [
+      "U.S. citizenship",
+      "Asian heritage",
+      "High school senior",
+      "Financial need",
+      "Academic achievement"
+    ],
+    "tags": [
+      "asian",
+      "financial need",
+      "undergraduate",
+      "diversity"
+    ],
+    "applicationUrl": "https://www.rmhc.org/asia",
+    "contactEmail": "asia@rmhc.org",
+    "isActive": true,
+    "category": "General"
+  },
+  {
+    "id": "ronald_mcdonald020",
+    "title": "RMHC/African American Future Achievers",
+    "organization": "Ronald McDonald House Charities",
+    "amount": 100000,
+    "currency": "USD",
+    "deadline": "2024-01-17",
+    "field": "All Fields",
+    "level": "Undergraduate",
+    "country": "United States",
+    "eligibility": {
+      "gpa": 2.7,
+      "citizenship": [
+        "US Citizen"
+      ],
+      "enrollment": "Full-time",
+      "year": [
+        "High School Senior"
+      ],
+      "ethnicity": [
+        "African American"
+      ]
+    },
+    "description": "The RMHC/African American Future Achievers Scholarship provides scholarships to African American students who demonstrate academic achievement, financial need and community involvement.",
+    "requirements": [
+      "U.S. citizenship",
+      "African American heritage",
+      "High school senior",
+      "Financial need",
+      "Academic achievement"
+    ],
+    "tags": [
+      "african american",
+      "financial need",
+      "undergraduate",
+      "diversity"
+    ],
+    "applicationUrl": "https://www.rmhc.org/african-american",
+    "contactEmail": "africanamerican@rmhc.org",
+    "isActive": true,
+    "category": "General"
+  }
+]
